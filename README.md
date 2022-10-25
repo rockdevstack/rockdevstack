@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm RoCk</h1>
 <h3 align="center">An aspiring frontend developer from Philippines </h3>
 
-<img display="block" align="center" width="400px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" width="400px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 
 
